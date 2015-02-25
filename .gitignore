@@ -1,0 +1,11 @@
+/Com/
+/Saves/
+/NetLogs/
+/engine/blender/*.*
+/*/__pycache__/*.*
+/tools/launcher/Release/launcher.tlog/*.*
+/tools/launcher/launcher/Release/*.*
+engine_log.txt
+*.blend1
+*.blend2
+*.pyc

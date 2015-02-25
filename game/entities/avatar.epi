@@ -1,0 +1,11 @@
+{
+	"name":"avatar",
+	"type":"Object",
+	"resourcePath":"avatar/avatar",
+	"scriptPath":"",
+	"flags":{
+		"physicsTrack":True,
+		"animTrack":True,
+	},
+	"properties":{"player":""},
+}

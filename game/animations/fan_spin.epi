@@ -1,0 +1,9 @@
+{
+	"name":"fan_spin",
+	"mode":"loop",
+	"skeleton":True,
+	"start":0,
+	"end":39,
+	"layer":0,
+	"targetChild":"fanbone",
+}

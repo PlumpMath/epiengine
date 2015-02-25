@@ -1,0 +1,11 @@
+{
+	"name":"playercamera",
+	"type":"Object",
+	"resourcePath":"playercamera/playercamera",
+	"scriptPath":"",
+	"flags":{
+		"physicsTrack":True,
+		"animTrack":True,
+	},
+	"properties":{},
+}

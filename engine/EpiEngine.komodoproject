@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="e4e908e6-c1b0-41b9-a623-4362475b4440" kpf_version="5" name="EpiEngine.komodoproject">
+<file id="001ac166-9846-46b4-bedf-0e58904a7833" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="interface.py" url="interface.py">
+</file>
+<file id="087daede-145d-46e7-8212-4e75153b7cd5" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="player.py" url="player.py">
+</file>
+<file id="08a7acc7-c8f8-45c6-80f1-9e3f1c8da9b0" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="subtitledrawer.py" url="subtitledrawer.py">
+</file>
+<file id="1cc86a5e-e7f3-436a-97d9-4d80bda7a5f6" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="shaderhandler.py" url="shaderhandler.py">
+</file>
+<file id="3135dcf1-5b69-44b9-9f2b-20d112e58826" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="gameside.py" url="gameside.py">
+</file>
+<file id="32147168-d338-49ef-a222-fd7072639dc9" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="localizer.py" url="localizer.py">
+</file>
+<file id="4bf63b76-be39-4db2-bf83-69c34fb36856" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="configreader.py" url="configreader.py">
+</file>
+<file id="51baf115-fda5-4b5c-bdc9-770292e2a80a" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="sarcophagus.py" url="sarcophagus.py">
+</file>
+<file id="5d7ef039-f4a8-4678-8134-f523a8c269e8" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="network.py" url="network.py">
+</file>
+<folder id="6605de67-f6f9-44cc-ae12-5e9113d476ed" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="game">
+</folder>
+<file id="6fb29c69-698e-484f-9d38-132c4abd495e" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="Functionalities.txt" url="file:///C:/Users/Duo%20Oratar/Applications/EpiEngine/Docs/Functionalities.txt">
+</file>
+<file id="735e52c3-da02-4da7-91c6-596096996865" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="soundengine.py" url="soundengine.py">
+</file>
+<file id="75e49ec8-5d3b-4ea9-a626-e9248a60283f" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="tools.py" url="tools.py">
+</file>
+<file id="792705aa-e12e-45a6-beb1-f583645ac499" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="randomtools.py" url="randomtools.py">
+</file>
+<file id="8732bc5c-6646-4f7c-880d-6be462fc22b9" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="client.py" url="client.py">
+</file>
+<file id="8e07acb8-86e3-47c6-bd06-9f6db78e1728" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="physicsapplicator.py" url="physicsapplicator.py">
+</file>
+<file id="8e48ffa4-e9e2-4e3e-95e7-538c0f8d8f50" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="engine.ini" url="file:///C:/Users/Duo%20Oratar/Applications/EpiEngine/engine.ini">
+</file>
+<file id="955c9a68-6cb2-4606-a926-f5ad50f3e855" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="launcher.py" url="launcher.py">
+</file>
+<file id="965b4dc9-00b4-410b-9408-aeb878668218" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="inputreceiver.py" url="inputreceiver.py">
+</file>
+<file id="9c3dbdcd-73d5-4acd-b2a5-a73871a920a8" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="outpipe.py" url="outpipe.py">
+</file>
+<file id="aceb4239-fb49-4325-9a81-bc57fee36a83" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="paths.py" url="paths.py">
+</file>
+<file id="ad196563-3afb-420c-9e0e-1fc5c6ce1f62" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="scriptexecuter.py" url="scriptexecuter.py">
+</file>
+<file id="b5d914b5-0af3-4de3-b5f7-7ef39dd3ed6d" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="physicsreader.py" url="physicsreader.py">
+</file>
+<file id="bbabebfd-a373-4f00-a9a2-fa559355f0e5" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="controls.ini" url="file:///C:/Users/Duo%20Oratar/Applications/EpiEngine/Game/controls.ini">
+</file>
+<file id="c2c9e2e8-861b-4b82-b9ff-ce3250064ebc" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="videoplayer.py" url="videoplayer.py">
+</file>
+<file id="d319d7b4-c7ce-43b5-9739-46be29671bdd" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="typinghandler.py" url="typinghandler.py">
+</file>
+<file id="d641d3ed-6057-450a-961c-08077260e4a7" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="engineinterface.py" url="engineinterface.py">
+</file>
+<folder id="e64f425a-146f-4f05-b52c-7535d27a3b4d" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="loader">
+</folder>
+<file id="eb896de5-d949-4c55-9568-32bb66a314ac" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="entity.py" url="entity.py">
+</file>
+<file id="f1da42c0-61b5-4145-9ed3-dcd44bf8c8bb" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="server.py" url="server.py">
+</file>
+<file id="fa78b9e6-b0b8-4bdc-a89b-55248fab7074" idref="e4e908e6-c1b0-41b9-a623-4362475b4440" name="contentreader.py" url="contentreader.py">
+</file>
+<file id="197770b4-5b82-40f7-964e-553d3d234c1a" idref="e64f425a-146f-4f05-b52c-7535d27a3b4d" name="console.py" url="file:///C:/Users/Duo%20Oratar/Applications/EpiEngine/Bin/console.py">
+</file>
+<file id="339827c5-a2b5-441f-bb43-2c8d9fc94a90" idref="e64f425a-146f-4f05-b52c-7535d27a3b4d" name="interfaceloader.py" url="file:///C:/Users/Duo%20Oratar/Applications/EpiEngine/Bin/interfaceloader.py">
+</file>
+<file id="55404068-9c3a-4c73-8afc-5f6eb40842f9" idref="e64f425a-146f-4f05-b52c-7535d27a3b4d" name="waypointloader.py" url="file:///C:/Users/Duo%20Oratar/Applications/EpiEngine/Bin/waypointloader.py">
+</file>
+<file id="912d7497-fac9-4d82-91f1-33e5e86465e2" idref="e64f425a-146f-4f05-b52c-7535d27a3b4d" name="subtitles.py" url="file:///C:/Users/Duo%20Oratar/Applications/EpiEngine/Bin/subtitles.py">
+</file>
+<file id="b051a762-781b-42ee-b83d-50cfa113c681" idref="e64f425a-146f-4f05-b52c-7535d27a3b4d" name="startup.py" url="file:///C:/Users/Duo%20Oratar/Applications/EpiEngine/Bin/startup.py">
+</file>
+<file id="c7e04a94-90f0-4a5e-a2fe-397cf74f4e2e" idref="e64f425a-146f-4f05-b52c-7535d27a3b4d" name="videotexture.py" url="file:///C:/Users/Duo%20Oratar/Applications/EpiEngine/Bin/videotexture.py">
+</file>
+</project>

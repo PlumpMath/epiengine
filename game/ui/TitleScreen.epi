@@ -1,0 +1,11 @@
+{
+	"name":"TitleScreen",
+	"type":"Object",
+	"resourcePath":"TitleScreen/TitleScreen",
+	"scriptPath":"UI/TitleScreen",
+	"flags":{
+		"physicsTrack":False,
+		"animTrack":False,
+	},
+	"properties":{},
+}

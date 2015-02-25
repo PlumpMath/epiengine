@@ -1,0 +1,7 @@
+{
+    "name":"ambience",
+    "resources":["ambience"],
+    "3D":False,
+    "loop":True,
+    "volume":1.0,
+}

@@ -1,0 +1,11 @@
+{
+	"name":"barrel",
+	"type":"Object",
+	"resourcePath":"barrel/barrel",
+	"scriptPath":"",
+	"flags":{
+		"physicsTrack":True,
+		"animTrack":True,
+	},
+	"properties":{},
+}

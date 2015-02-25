@@ -1,0 +1,11 @@
+{
+	"name":"breakableplank",
+	"type":"Object",
+	"resourcePath":"breakableplank/breakableplank",
+	"scriptPath":"entities/breakableplank",
+	"flags":{
+		"physicsTrack":True,
+		"animTrack":True,
+	},
+	"properties":{},
+}

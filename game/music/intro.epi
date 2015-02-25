@@ -1,0 +1,7 @@
+{
+    "name":"intro",
+    "resources":["intro"],
+    "3D":False,
+    "loop":False,
+    "volume":1.0,
+}

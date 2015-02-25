@@ -1,0 +1,7 @@
+{
+    "version":1.13,
+    "targetVersion":2.72,
+    "game":"Demo",
+    "gameVersion":0.1,
+    "date":"10/08/2014"
+}

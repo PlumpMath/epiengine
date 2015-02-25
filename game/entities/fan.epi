@@ -1,0 +1,11 @@
+{
+	"name":"fan",
+	"type":"Object",
+	"resourcePath":"fan/fan",
+	"scriptPath":"entities/fan",
+	"flags":{
+		"physicsTrack":True,
+		"animTrack":True,
+	},
+	"properties":{},
+}

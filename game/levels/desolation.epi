@@ -1,0 +1,16 @@
+{
+	"name":"desolation",
+	"type":"Object",
+	"resourcePath":"desolation/desolation",
+	"scriptPath":"Level/desolation",
+	"flags":{
+		"physicsTrack":False,
+		"animTrack":False,
+	},
+	"properties":{},
+	"sky":{
+		"r":40,
+		"g":50,
+		"b":70,
+	}
+}
